@@ -4,6 +4,8 @@
 # TrafficMAS
 TrafficMAS, the code
 
+Original code with version history [here](http://www.github.com/baumfalk/TrafficMAS)
+
 ##How to install##
 ###Install SUMO###
 In general: see the [SUMO wiki](http://sumo.dlr.de/wiki/Installing) about installing SUMO
